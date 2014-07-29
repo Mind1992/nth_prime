@@ -1,4 +1,4 @@
-# Next Weekday
+# Nth_Prime
 ## About
 This project is for [Epicodus'](http://www.epicodus.com/) [Ruby TDD assessment](http://www.learnhowtoprogram.com/lessons/ruby-tdd-assessment).
 This project takes any number as an argument, and returns the **nth prime** of that number.
