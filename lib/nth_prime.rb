@@ -7,5 +7,7 @@ def nth_prime(number)
   end
   nth_number =  array_of_numbers.index(number) + 1  
 end
-
-
+print "Type in any prime number: "
+user_input = gets.chomp.to_i
+result = nth_prime(user_input)
+puts "The nth prime of number #{user_input} is " + result.to_s
